@@ -54,4 +54,6 @@ TestResult.xml
 nunit-*.xml
 /.vs
 /beginnerapp/.vs
+/RazorPagesMovie/.vs/RazorPagesMovie
+/RazorPagesMovie/.vs/ProjectEvaluation
 /RazorPagesMovie/.vs
