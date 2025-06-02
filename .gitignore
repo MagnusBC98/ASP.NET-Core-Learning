@@ -53,6 +53,7 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /.vs
+**/.vs/
 /beginnerapp/.vs
 /RazorPagesMovie/.vs/RazorPagesMovie
 /RazorPagesMovie/.vs/ProjectEvaluation
